@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=caixaDinheiro()
+comment1.params=quantidade
+comment1.target=void\ levantar(int)
+comment2.params=quantidade
+comment2.target=boolean\ existeNotasSuficientes(int)
+numComments=3

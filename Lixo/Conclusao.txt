@@ -1,0 +1,1 @@
+	Durante o desenvolvimento deste trabalho tivemos a oportunidade de aprender o valor da modelação, revimos os padrões de desenho, aprofundamos os nossos conhecimentos em Java e desenho de código e escrevemos código com pouca dependência dando bom uso a orientação a objectos.

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=novoNumeroConta\ novoNomeUtilizador\ novoPin\ novoSaldoDisponivel\ novoSaldoTotal
+comment0.target=conta(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=pinVerificar
+comment1.target=boolean\ pinValido(java.lang.String)
+comment2.params=
+comment2.target=double\ getSaldoDisponivel()
+comment3.params=
+comment3.target=double\ getSaldoTotal()
+comment4.params=quantia
+comment4.target=void\ depositar(double)
+comment5.params=quantia
+comment5.target=void\ levantar(double)
+comment6.params=
+comment6.target=java.lang.String\ getNumeroConta()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=mensagem
+comment0.target=void\ mostrarMensagem(java.lang.String)
+comment1.params=mensagem
+comment1.target=void\ mostrarMensagemParagrafo(java.lang.String)
+comment2.params=quantidade
+comment2.target=void\ mostrarMensagemEuros(double)
+numComments=3
